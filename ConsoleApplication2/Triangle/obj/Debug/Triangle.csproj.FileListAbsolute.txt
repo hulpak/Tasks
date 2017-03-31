@@ -1,0 +1,6 @@
+D:\Tasks\ConsoleApplication2\Triangle\bin\Debug\Triangle.exe.config
+D:\Tasks\ConsoleApplication2\Triangle\bin\Debug\Triangle.exe
+D:\Tasks\ConsoleApplication2\Triangle\bin\Debug\Triangle.pdb
+D:\Tasks\ConsoleApplication2\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+D:\Tasks\ConsoleApplication2\Triangle\obj\Debug\Triangle.exe
+D:\Tasks\ConsoleApplication2\Triangle\obj\Debug\Triangle.pdb
