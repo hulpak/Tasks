@@ -1,0 +1,5 @@
+C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ReverseOrderOfSequence\bin\Debug\ReverseOrderOfSequence.exe.config
+C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ReverseOrderOfSequence\bin\Debug\ReverseOrderOfSequence.exe
+C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ReverseOrderOfSequence\bin\Debug\ReverseOrderOfSequence.pdb
+C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ReverseOrderOfSequence\obj\Debug\ReverseOrderOfSequence.exe
+C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ReverseOrderOfSequence\obj\Debug\ReverseOrderOfSequence.pdb

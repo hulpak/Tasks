@@ -1,0 +1,5 @@
+C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\GeometricProgressionSum\bin\Debug\GeometricProgressionSum.exe.config
+C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\GeometricProgressionSum\bin\Debug\GeometricProgressionSum.exe
+C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\GeometricProgressionSum\bin\Debug\GeometricProgressionSum.pdb
+C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\GeometricProgressionSum\obj\Debug\GeometricProgressionSum.exe
+C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\GeometricProgressionSum\obj\Debug\GeometricProgressionSum.pdb
