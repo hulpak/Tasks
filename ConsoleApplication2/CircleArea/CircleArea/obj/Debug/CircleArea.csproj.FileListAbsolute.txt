@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\CircleArea\CircleArea\bin\Debug\CircleArea.exe.config
-c:\users\user\documents\visual studio 2017\Projects\CircleArea\CircleArea\bin\Debug\CircleArea.exe
-c:\users\user\documents\visual studio 2017\Projects\CircleArea\CircleArea\bin\Debug\CircleArea.pdb
-c:\users\user\documents\visual studio 2017\Projects\CircleArea\CircleArea\obj\Debug\CircleArea.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\CircleArea\CircleArea\obj\Debug\CircleArea.exe
-c:\users\user\documents\visual studio 2017\Projects\CircleArea\CircleArea\obj\Debug\CircleArea.pdb

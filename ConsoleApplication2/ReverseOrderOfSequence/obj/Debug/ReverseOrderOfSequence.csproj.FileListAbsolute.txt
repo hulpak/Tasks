@@ -8,3 +8,4 @@ E:\Tasks\ConsoleApplication2\ReverseOrderOfSequence\obj\Debug\ReverseOrderOfSequ
 E:\Tasks\ConsoleApplication2\ReverseOrderOfSequence\obj\Debug\ReverseOrderOfSequence.pdb
 E:\Tasks\ConsoleApplication2\ReverseOrderOfSequence\bin\Debug\ReverseOrderOfSequence.exe
 E:\Tasks\ConsoleApplication2\ReverseOrderOfSequence\bin\Debug\ReverseOrderOfSequence.pdb
+E:\Tasks\ConsoleApplication2\ReverseOrderOfSequence\obj\Debug\ReverseOrderOfSequence.csprojResolveAssemblyReference.cache

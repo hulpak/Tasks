@@ -9,4 +9,3 @@ E:\Tasks\ConsoleApplication2\ArithmeticProgressionSum\obj\Debug\ArithmeticProgre
 E:\Tasks\ConsoleApplication2\ArithmeticProgressionSum\obj\Debug\ArithmeticProgressionSum.pdb
 E:\Tasks\ConsoleApplication2\ArithmeticProgressionSum\bin\Debug\ArithmeticProgressionSum.exe
 E:\Tasks\ConsoleApplication2\ArithmeticProgressionSum\bin\Debug\ArithmeticProgressionSum.pdb
-E:\Tasks\ConsoleApplication2\ArithmeticProgressionSum\obj\Debug\ArithmeticProgressionSum.csprojResolveAssemblyReference.cache

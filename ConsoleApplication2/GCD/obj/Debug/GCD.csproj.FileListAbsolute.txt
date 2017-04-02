@@ -1,6 +1,0 @@
-D:\Tasks\ConsoleApplication2\GCD\bin\Debug\GCD.exe.config
-D:\Tasks\ConsoleApplication2\GCD\bin\Debug\GCD.exe
-D:\Tasks\ConsoleApplication2\GCD\bin\Debug\GCD.pdb
-D:\Tasks\ConsoleApplication2\GCD\obj\Debug\GCD.csprojResolveAssemblyReference.cache
-D:\Tasks\ConsoleApplication2\GCD\obj\Debug\GCD.exe
-D:\Tasks\ConsoleApplication2\GCD\obj\Debug\GCD.pdb

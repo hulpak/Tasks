@@ -14,7 +14,7 @@ namespace DistanceBetweenTwoPoints3D
 
             Point p1 = new Point(a[0],a[1],a[2]);
             double dist = Math.Round(p1.distance(p1, new Point(a[3], a[4], a[5])));
-            Console.WriteLine(String.Format("{0:0.0}", dist));
+            Console.Write(String.Format("{0:0.00000000}", dist));
             Console.ReadKey();
         }
     }

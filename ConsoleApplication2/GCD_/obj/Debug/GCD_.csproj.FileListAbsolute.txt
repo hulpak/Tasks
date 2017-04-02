@@ -1,0 +1,5 @@
+E:\Tasks\ConsoleApplication2\GCD_\bin\Debug\GCD_.exe.config
+E:\Tasks\ConsoleApplication2\GCD_\bin\Debug\GCD_.exe
+E:\Tasks\ConsoleApplication2\GCD_\bin\Debug\GCD_.pdb
+E:\Tasks\ConsoleApplication2\GCD_\obj\Debug\GCD_.exe
+E:\Tasks\ConsoleApplication2\GCD_\obj\Debug\GCD_.pdb

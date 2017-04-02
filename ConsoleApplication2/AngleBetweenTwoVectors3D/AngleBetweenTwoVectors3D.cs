@@ -17,7 +17,7 @@ namespace AngleBetweenTwoVectors3D
 
             Point p1 = new Point(a[0], a[1], a[2]);
             double dist = p1.angle(p1, new Point(a[3], a[4], a[5]));
-            Console.WriteLine(String.Format("{0:0.00000000}", dist));
+            Console.Write(String.Format("{0:0.00000000}", dist));
             Console.ReadKey();
         }
       

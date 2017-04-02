@@ -1,0 +1,5 @@
+E:\Tasks\ConsoleApplication2\Hexadecimal\bin\Debug\Hexadecimal.exe.config
+E:\Tasks\ConsoleApplication2\Hexadecimal\bin\Debug\Hexadecimal.exe
+E:\Tasks\ConsoleApplication2\Hexadecimal\bin\Debug\Hexadecimal.pdb
+E:\Tasks\ConsoleApplication2\Hexadecimal\obj\Debug\Hexadecimal.exe
+E:\Tasks\ConsoleApplication2\Hexadecimal\obj\Debug\Hexadecimal.pdb

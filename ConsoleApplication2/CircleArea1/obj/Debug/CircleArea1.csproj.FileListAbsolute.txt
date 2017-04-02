@@ -1,0 +1,5 @@
+E:\Tasks\ConsoleApplication2\CircleArea1\bin\Debug\CircleArea1.exe.config
+E:\Tasks\ConsoleApplication2\CircleArea1\bin\Debug\CircleArea1.exe
+E:\Tasks\ConsoleApplication2\CircleArea1\bin\Debug\CircleArea1.pdb
+E:\Tasks\ConsoleApplication2\CircleArea1\obj\Debug\CircleArea1.exe
+E:\Tasks\ConsoleApplication2\CircleArea1\obj\Debug\CircleArea1.pdb

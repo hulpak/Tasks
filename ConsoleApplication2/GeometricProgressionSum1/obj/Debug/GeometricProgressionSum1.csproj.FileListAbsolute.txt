@@ -1,0 +1,6 @@
+E:\Tasks\ConsoleApplication2\GeometricProgressionSum1\bin\Debug\GeometricProgressionSum1.exe.config
+E:\Tasks\ConsoleApplication2\GeometricProgressionSum1\bin\Debug\GeometricProgressionSum1.exe
+E:\Tasks\ConsoleApplication2\GeometricProgressionSum1\bin\Debug\GeometricProgressionSum1.pdb
+E:\Tasks\ConsoleApplication2\GeometricProgressionSum1\obj\Debug\GeometricProgressionSum1.csprojResolveAssemblyReference.cache
+E:\Tasks\ConsoleApplication2\GeometricProgressionSum1\obj\Debug\GeometricProgressionSum1.exe
+E:\Tasks\ConsoleApplication2\GeometricProgressionSum1\obj\Debug\GeometricProgressionSum1.pdb
