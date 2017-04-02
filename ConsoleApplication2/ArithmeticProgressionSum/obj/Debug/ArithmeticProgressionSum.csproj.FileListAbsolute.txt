@@ -4,3 +4,9 @@ C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Arith
 C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ArithmeticProgressionSum\obj\Debug\ArithmeticProgressionSum.csprojResolveAssemblyReference.cache
 C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ArithmeticProgressionSum\obj\Debug\ArithmeticProgressionSum.exe
 C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ArithmeticProgressionSum\obj\Debug\ArithmeticProgressionSum.pdb
+E:\Tasks\ConsoleApplication2\ArithmeticProgressionSum\bin\Debug\ArithmeticProgressionSum.exe.config
+E:\Tasks\ConsoleApplication2\ArithmeticProgressionSum\obj\Debug\ArithmeticProgressionSum.exe
+E:\Tasks\ConsoleApplication2\ArithmeticProgressionSum\obj\Debug\ArithmeticProgressionSum.pdb
+E:\Tasks\ConsoleApplication2\ArithmeticProgressionSum\bin\Debug\ArithmeticProgressionSum.exe
+E:\Tasks\ConsoleApplication2\ArithmeticProgressionSum\bin\Debug\ArithmeticProgressionSum.pdb
+E:\Tasks\ConsoleApplication2\ArithmeticProgressionSum\obj\Debug\ArithmeticProgressionSum.csprojResolveAssemblyReference.cache

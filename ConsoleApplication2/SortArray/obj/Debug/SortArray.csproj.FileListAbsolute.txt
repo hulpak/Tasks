@@ -4,3 +4,9 @@ C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SortA
 C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SortArray\obj\Debug\SortArray.exe
 C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SortArray\obj\Debug\SortArray.pdb
 C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SortArray\obj\Debug\SortArray.csprojResolveAssemblyReference.cache
+E:\Tasks\ConsoleApplication2\SortArray\bin\Debug\SortArray.exe.config
+E:\Tasks\ConsoleApplication2\SortArray\obj\Debug\SortArray.exe
+E:\Tasks\ConsoleApplication2\SortArray\obj\Debug\SortArray.pdb
+E:\Tasks\ConsoleApplication2\SortArray\bin\Debug\SortArray.exe
+E:\Tasks\ConsoleApplication2\SortArray\bin\Debug\SortArray.pdb
+E:\Tasks\ConsoleApplication2\SortArray\obj\Debug\SortArray.csprojResolveAssemblyReference.cache

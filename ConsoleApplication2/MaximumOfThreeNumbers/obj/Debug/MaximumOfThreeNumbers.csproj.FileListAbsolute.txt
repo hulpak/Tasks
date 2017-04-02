@@ -3,3 +3,8 @@ C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Maxim
 C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\MaximumOfThreeNumbers\bin\Debug\MaximumOfThreeNumbers.pdb
 C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\MaximumOfThreeNumbers\obj\Debug\MaximumOfThreeNumbers.exe
 C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\MaximumOfThreeNumbers\obj\Debug\MaximumOfThreeNumbers.pdb
+E:\Tasks\ConsoleApplication2\MaximumOfThreeNumbers\bin\Debug\MaximumOfThreeNumbers.exe.config
+E:\Tasks\ConsoleApplication2\MaximumOfThreeNumbers\obj\Debug\MaximumOfThreeNumbers.exe
+E:\Tasks\ConsoleApplication2\MaximumOfThreeNumbers\obj\Debug\MaximumOfThreeNumbers.pdb
+E:\Tasks\ConsoleApplication2\MaximumOfThreeNumbers\bin\Debug\MaximumOfThreeNumbers.exe
+E:\Tasks\ConsoleApplication2\MaximumOfThreeNumbers\bin\Debug\MaximumOfThreeNumbers.pdb

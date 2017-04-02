@@ -4,3 +4,9 @@ C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Subse
 C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Subsequence\bin\Debug\Subsequence.exe
 C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Subsequence\bin\Debug\Subsequence.pdb
 C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Subsequence\obj\Debug\SequenceWithoutRepeats.csprojResolveAssemblyReference.cache
+E:\Tasks\ConsoleApplication2\Subsequence\bin\Debug\Subsequence.exe.config
+E:\Tasks\ConsoleApplication2\Subsequence\obj\Debug\Subsequence.exe
+E:\Tasks\ConsoleApplication2\Subsequence\obj\Debug\Subsequence.pdb
+E:\Tasks\ConsoleApplication2\Subsequence\bin\Debug\Subsequence.exe
+E:\Tasks\ConsoleApplication2\Subsequence\bin\Debug\Subsequence.pdb
+E:\Tasks\ConsoleApplication2\Subsequence\obj\Debug\SequenceWithoutRepeats.csprojResolveAssemblyReference.cache

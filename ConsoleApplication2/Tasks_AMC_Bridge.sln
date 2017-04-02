@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "ConsoleApplication2\Factorial.csproj", "{0FA1E50E-13CB-4183-A266-AFC5BFC9661B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceWithoutRepeats", "Subsequence\SequenceWithoutRepeats.csproj", "{EFB9F6AB-92A7-47BB-9CC4-2251EC61CB0E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectedMembersOfSequence", "SelectedMembersOfSequence\SelectedMembersOfSequence.csproj", "{AAD22D31-ACCF-4568-88AA-887AEED9EFDA}"
@@ -21,16 +19,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumOfThreeNumbers", "Ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumArray", "MinimumArray\MinimumArray.csproj", "{E4986138-F5F0-4826-9B67-171EF94D33AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceBetweenTwoPoints3D", "DistanceBetweenTwoPoints3D\DistanceBetweenTwoPoints3D.csproj", "{377C462E-CBB1-4EC8-A4AB-4218195594B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngleBetweenTwoVectors3D", "AngleBetweenTwoVectors3D\AngleBetweenTwoVectors3D.csproj", "{256188C4-4BBC-453D-82EB-EA232E3F8B0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0FA1E50E-13CB-4183-A266-AFC5BFC9661B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0FA1E50E-13CB-4183-A266-AFC5BFC9661B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0FA1E50E-13CB-4183-A266-AFC5BFC9661B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0FA1E50E-13CB-4183-A266-AFC5BFC9661B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EFB9F6AB-92A7-47BB-9CC4-2251EC61CB0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EFB9F6AB-92A7-47BB-9CC4-2251EC61CB0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFB9F6AB-92A7-47BB-9CC4-2251EC61CB0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -63,6 +61,14 @@ Global
 		{E4986138-F5F0-4826-9B67-171EF94D33AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4986138-F5F0-4826-9B67-171EF94D33AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4986138-F5F0-4826-9B67-171EF94D33AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{377C462E-CBB1-4EC8-A4AB-4218195594B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{377C462E-CBB1-4EC8-A4AB-4218195594B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{377C462E-CBB1-4EC8-A4AB-4218195594B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{377C462E-CBB1-4EC8-A4AB-4218195594B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{256188C4-4BBC-453D-82EB-EA232E3F8B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256188C4-4BBC-453D-82EB-EA232E3F8B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256188C4-4BBC-453D-82EB-EA232E3F8B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256188C4-4BBC-453D-82EB-EA232E3F8B0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

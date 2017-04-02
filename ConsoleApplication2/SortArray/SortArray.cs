@@ -15,6 +15,7 @@ namespace SortArray
             var first = arr.First().ToString();
             int[] number = Array.ConvertAll(arr, int.Parse).Skip(1).OrderBy(i=>i).ToArray();
 
+            Console.Write(first + " ");
             foreach (int i in number)
                 Console.Write(i + " ");
             Console.ReadKey();

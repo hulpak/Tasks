@@ -3,3 +3,8 @@ C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Minim
 C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\MinimumArray\bin\Debug\MinimumArray.pdb
 C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\MinimumArray\obj\Debug\MinimumArray.exe
 C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\MinimumArray\obj\Debug\MinimumArray.pdb
+E:\Tasks\ConsoleApplication2\MinimumArray\bin\Debug\MinimumArray.exe.config
+E:\Tasks\ConsoleApplication2\MinimumArray\obj\Debug\MinimumArray.exe
+E:\Tasks\ConsoleApplication2\MinimumArray\obj\Debug\MinimumArray.pdb
+E:\Tasks\ConsoleApplication2\MinimumArray\bin\Debug\MinimumArray.exe
+E:\Tasks\ConsoleApplication2\MinimumArray\bin\Debug\MinimumArray.pdb

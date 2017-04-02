@@ -14,7 +14,7 @@ namespace MinimumArray
             string[] arr = line.Split();
             int[] number = Array.ConvertAll(arr, int.Parse).TakeWhile(i => i != -1).ToArray();
             int min = number.Min(p=>p);
-                Console.Write(min + " ");
+                Console.Write(min);
             Console.ReadKey();
         }
     }

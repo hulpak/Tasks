@@ -17,7 +17,7 @@ namespace ArithmeticProgressionNth
 
             int arithm = ProgressNth(a[0], a[1], a[2]);
 
-            Console.Write(arithm + " ");
+            Console.Write(arithm);
             Console.ReadKey();
         }
 
