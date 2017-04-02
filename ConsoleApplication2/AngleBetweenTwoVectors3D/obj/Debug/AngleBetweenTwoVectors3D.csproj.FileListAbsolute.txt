@@ -1,0 +1,5 @@
+E:\Tasks\ConsoleApplication2\AngleBetweenTwoVectors3D\bin\Debug\AngleBetweenTwoVectors3D.exe.config
+E:\Tasks\ConsoleApplication2\AngleBetweenTwoVectors3D\bin\Debug\AngleBetweenTwoVectors3D.exe
+E:\Tasks\ConsoleApplication2\AngleBetweenTwoVectors3D\bin\Debug\AngleBetweenTwoVectors3D.pdb
+E:\Tasks\ConsoleApplication2\AngleBetweenTwoVectors3D\obj\Debug\AngleBetweenTwoVectors3D.exe
+E:\Tasks\ConsoleApplication2\AngleBetweenTwoVectors3D\obj\Debug\AngleBetweenTwoVectors3D.pdb
