@@ -4,3 +4,9 @@ C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Selec
 C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SelectedMembersOfSequence\obj\Debug\SelectedMembersOfSequence.exe
 C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SelectedMembersOfSequence\obj\Debug\SelectedMembersOfSequence.pdb
 C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\ConsoleApplication2\SelectedMembersOfSequence\obj\Debug\SelectedMembersOfSequence.csprojResolveAssemblyReference.cache
+E:\Tasks\ConsoleApplication2\SelectedMembersOfSequence\bin\Debug\SelectedMembersOfSequence.exe.config
+E:\Tasks\ConsoleApplication2\SelectedMembersOfSequence\obj\Debug\SelectedMembersOfSequence.exe
+E:\Tasks\ConsoleApplication2\SelectedMembersOfSequence\obj\Debug\SelectedMembersOfSequence.pdb
+E:\Tasks\ConsoleApplication2\SelectedMembersOfSequence\bin\Debug\SelectedMembersOfSequence.exe
+E:\Tasks\ConsoleApplication2\SelectedMembersOfSequence\bin\Debug\SelectedMembersOfSequence.pdb
+E:\Tasks\ConsoleApplication2\SelectedMembersOfSequence\obj\Debug\SelectedMembersOfSequence.csprojResolveAssemblyReference.cache

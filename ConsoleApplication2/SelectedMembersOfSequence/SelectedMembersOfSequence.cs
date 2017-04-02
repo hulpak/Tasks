@@ -10,16 +10,33 @@ namespace SelectedMembersOfSequence
     {
         static void Main(string[] args)
         {
-           string line = Console.ReadLine();
-           string[] arr = line.Split();
-           int[] number = Array.ConvertAll(arr, int.Parse).TakeWhile(i => i != -1).ToArray();
-          var res = number.Where(f => (f % 2) == 1)
-                  .ToList();
-            
-            foreach (object i in res)
-                Console.Write(i + " ");
+            string line = Console.ReadLine();
+            string[] arr = line.Split();
+            int[] number = Array.ConvertAll(arr, int.Parse).TakeWhile(j => j != -1).ToArray();
+            SelectedMember(number);
+
 
             Console.ReadKey();
+        }
+        public static void SelectedMember(int[] number)
+        {
+            int k = 0;
+            int i = 1;
+            Boolean f = true;
+            while (f)
+            {
+                if ((2 * k + i) < number.Length)
+                {
+                    Console.Write(number[2 * k + i] + " ");
+                    i++;
+                    k++;
+                }
+                else
+                {
+                    f = false;
+                    Console.Write("-1");
+                }
+            }
         }
     }
 }
