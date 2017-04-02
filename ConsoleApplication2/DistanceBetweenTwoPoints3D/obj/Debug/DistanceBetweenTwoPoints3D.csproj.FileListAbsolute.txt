@@ -1,0 +1,6 @@
+E:\Tasks\ConsoleApplication2\DistanceBetweenTwoPoints3D\bin\Debug\DistanceBetweenTwoPoints3D.exe.config
+E:\Tasks\ConsoleApplication2\DistanceBetweenTwoPoints3D\bin\Debug\DistanceBetweenTwoPoints3D.exe
+E:\Tasks\ConsoleApplication2\DistanceBetweenTwoPoints3D\bin\Debug\DistanceBetweenTwoPoints3D.pdb
+E:\Tasks\ConsoleApplication2\DistanceBetweenTwoPoints3D\obj\Debug\DistanceBetweenTwoPoints3D.csprojResolveAssemblyReference.cache
+E:\Tasks\ConsoleApplication2\DistanceBetweenTwoPoints3D\obj\Debug\DistanceBetweenTwoPoints3D.exe
+E:\Tasks\ConsoleApplication2\DistanceBetweenTwoPoints3D\obj\Debug\DistanceBetweenTwoPoints3D.pdb
